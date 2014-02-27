@@ -14,7 +14,7 @@ if (!$dbc)
 session_start();
 
 //根目录
-$basedir = '/VulDrill'; 
+$basedir = '/ZVulDrill'; 
 
 //载入函数库
 include_once('lib.php');
