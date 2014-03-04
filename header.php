@@ -28,7 +28,7 @@
     </script>
   </head>
   <body>
-    <script src="js/bsa.js"></script>
+    <script src="<?php echo $basedir?>/js/bsa.js"></script>
 
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
