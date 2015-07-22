@@ -2,8 +2,8 @@ ZVulDrill
 =========
 
 Web漏洞演练平台 
-![](http://img3.tuchuang.org/uploads/2014/02/z1.png) 
-![](http://img3.picbed.org/uploads/2014/02/z2.png) 
+![](http://x2know.qiniudn.com/28653d0c62ba00c36b90bd7046984cea_r.jpg) 
+![](http://x2know.qiniudn.com/f078de7be140db6a63829cfe75be5cea_r.jpg) 
 包含的漏洞有
 - SQL注入
 - XSS
